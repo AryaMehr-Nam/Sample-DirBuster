@@ -20,7 +20,7 @@ class App(ThemedTk):
     def __init__(self):
         super().__init__(theme='arc')
 
-        self.title("AryaMehr PyBuster")
+        self.title("PyBuster - Web Directory & File Discovery")
         self.geometry("850x750")
         self.minsize(700, 600)
         self.protocol("WM_DELETE_WINDOW", self.on_closing)

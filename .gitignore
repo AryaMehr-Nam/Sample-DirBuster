@@ -1,0 +1,5 @@
+
+.codebase-memory/
+__pycache__/
+*.pyc
+.idea/
